@@ -46,7 +46,7 @@
 #include <QOpenGLVertexArrayObject>
 #include <QOpenGLBuffer>
 #include <QMatrix4x4>
-#include "logo.h"
+//#include "logo.h"
 #include "dobject.h"
 
 QT_FORWARD_DECLARE_CLASS(QOpenGLShaderProgram)
